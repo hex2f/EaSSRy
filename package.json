@@ -1,0 +1,25 @@
+{
+  "name": "eassry",
+  "version": "1.0.0",
+  "description": "Easy Server-Side Rendering for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RekkyRek/EaSSRy.git"
+  },
+  "keywords": [
+    "SSR",
+    "NodeJS",
+    "Server-Side",
+    "Rendering"
+  ],
+  "author": "RekkyRek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RekkyRek/EaSSRy/issues"
+  },
+  "homepage": "https://github.com/RekkyRek/EaSSRy#readme"
+}
